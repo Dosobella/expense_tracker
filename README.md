@@ -36,8 +36,8 @@ This is a simple expense tracker application that allows users to add expenses, 
 ## Installation
 To run this project, you'll need to have Python installed. You can download it from python.org.
 
-##License
+## License
 This project is licensed under the MIT License.
 
-##Author
+## Author
 This project was created by Dosobella.
